@@ -6,18 +6,14 @@ This project implements an autocomplete system using Trie data structure to effi
 
 Features
 
-Insert words
+~Insert words
 
-Search prefix
+~Search prefix
 
-Display suggestions
+~Display suggestions
 
-Time complexity
+~Time complexity
 
-Data Structure Used
+~Data Structure Used
 
-Explain Trie briefly.
-
-📌 Example Output
-
-Show sample input/output.
+~Explain Trie briefly.
